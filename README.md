@@ -5,6 +5,10 @@ Current Status: Active
 Repository addons
 Instructions for adding repos:
 
+<img align="left" src="icon.png" width="256" hspace="48" title="Blamo Repo">
+
+<p align="right">
+
 Blamo Repo
 
 Go to the Kodi file manager.
